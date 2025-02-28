@@ -35,6 +35,10 @@ Used for visualizing the data and uncovering insights.
 To analyze customer ratings and feedback to identify areas of improvement.
 To provide actionable insights to British Airways for improving service offerings, especially focusing on aircraft types, routes, and seat comfort.
 ## Data
+This is the British Airways dataset taken from the Kaggle. This dataset is not
+cleaned so had to clean it in order to visualised and turned into meaningful insights.
+Python has been used for data cleaning and pre-processing with the Pandas library and Tableau has been used for visualizing the data and uncovering insights.
+
 The dataset consists of reviews from customers who have flown with British Airways, with details on their experiences related to:
 
 Aircraft type
@@ -58,17 +62,15 @@ Seat Comfort Rating: Seat comfort was a key factor in overall satisfaction, and 
 
 
 Setup Instructions
-Clone the repository:
+## Data cleaning with pandas
+1. <img width="1132" alt="Screenshot 2025-02-25 at 19 26 50" src="https://github.com/user-attachments/assets/38ce87c1-a6c0-469c-9b9d-060ed9b08d05" />
+2. <img width="1166" alt="Screenshot 2025-02-25 at 19 27 09" src="https://github.com/user-attachments/assets/653b1a13-5f0f-4809-b2f1-af21334d8482" />
+3. <img width="640" alt="Screenshot 2025-02-25 at 19 27 33" src="https://github.com/user-attachments/assets/9a7a252e-ce73-4d2a-849f-cda9d0ddde42" />
+4. <img width="599" alt="Screenshot 2025-02-25 at 19 27 48" src="https://github.com/user-attachments/assets/335c1fde-c34c-4f61-8956-bfbdcc4b4384" />
+5. <img width="583" alt="Screenshot 2025-02-25 at 19 28 03" src="https://github.com/user-attachments/assets/af8ae362-0bbb-40a9-b0ca-927bbdb94040" />
+6. <img width="842" alt="Screenshot 2025-02-25 at 19 28 32" src="https://github.com/user-attachments/assets/74b49839-930e-40dd-9274-58d0dce9a669" />
+7. <img width="858" alt="Screenshot 2025-02-25 at 19 28 51" src="https://github.com/user-attachments/assets/e03b2ccd-1f45-42a1-80d9-572c623a16c9" />
 
-bash
-Copy
-git clone https://github.com/your-username/british-airways-review-analysis.git
-Install the necessary Python libraries:
-
-bash
-Copy
-pip install pandas matplotlib seaborn
-Open the Tableau file to explore the visualizations.
 
 ## Conclusion
 By analyzing British Airways reviews, we can provide valuable insights to the company on how to enhance their services, improve customer satisfaction, and focus on areas that need more attention. This project demonstrates the power of data analysis in driving business improvements.
