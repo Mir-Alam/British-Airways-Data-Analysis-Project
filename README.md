@@ -1,7 +1,7 @@
 # British-Airways-Data-Analysis-Project using Pandas and Tableau
 
-British Airways Review Analysis
-Project Overview
+## British Airways Review Analysis
+## Project Overview
 This project involves analyzing British Airways reviews data to uncover key insights that can help the airline improve its services. The focus is on identifying areas where more attention is needed to enhance customer satisfaction. The analysis was conducted using a combination of Pandas for data cleaning and Tableau for data visualization.
 ## Dashbord:
 <img width="1516" alt="Screenshot 2025-02-27 at 22 16 54" src="https://github.com/user-attachments/assets/7c3eb12a-cdb0-487d-82bf-6253af27c567" />
